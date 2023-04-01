@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(251, 200, 243);
+}
+
+img {
+    width: 450px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.menu-item {
+    font-size: 20px;
+}
